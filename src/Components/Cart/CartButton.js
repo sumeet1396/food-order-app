@@ -3,7 +3,7 @@ import { FaCartPlus } from 'react-icons/fa'
 
 const HeaderCartButton = (props) => {
   return (
-    <button className={classes.button}>
+    <button className={classes.button} onClick={props.onClick}>
       <span className={classes.icon}>
         <FaCartPlus size="2rem"/>
       </span>
