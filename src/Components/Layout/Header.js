@@ -1,5 +1,6 @@
 import React from 'react';
 import classes from './Header.module.scss';
+import CartButton from '../Cart/CartButton';
 
 const Header = () => {
 	return (
@@ -8,7 +9,7 @@ const Header = () => {
 				<h1>
 					<a href="/" title="MyFood">MyFood</a>
 				</h1>
-				<button>Cart</button>
+				<CartButton />
 			</div>
 		</header>
 	)
