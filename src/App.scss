@@ -112,8 +112,10 @@ li {
 /*for wrapper*/
 .wrapper {
   max-width: 1350px;
-  width: 86%; 
+  width: 86%;
   margin: 0 auto;
 }
 
-::before { font-family: FontAwesome; }
+/* custom styling */
+
+body { background-color: #3f3f3f; }
