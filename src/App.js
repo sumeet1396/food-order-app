@@ -1,10 +1,14 @@
+import React, { Fragment } from 'react';
+import Header from './Components/Layout/Header';
+import Banner from './Components/Layout/Banner';
 import './App.scss';
 
 function App() {
   return (
-    <div className="App">
-  
-    </div>
+    <Fragment>
+      <Header />
+      <Banner />
+    </Fragment>
   );
 }
 
