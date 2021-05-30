@@ -1,18 +1,18 @@
 .input {
-    margin-bottom: 8px;
-    display: flex;
-    align-items: center;
+	margin-bottom: 8px;
+	display: flex;
+	align-items: center;
 
-    label {
-        margin-right: 16px;
-        font-weight: bold;
-    }
+	label {
+		margin-right: 16px;
+		font-weight: bold;
+	}
 
-    input {
-        width: 48px;
-        padding-left: 8px;
-        border-radius: 5px;
-        border: 1px solid #ccc;
-        font: inherit;
-    }
+	input {
+		width: 48px;
+		padding-left: 8px;
+		border-radius: 5px;
+		border: 1px solid #ccc;
+		font: inherit;
+	}
 }

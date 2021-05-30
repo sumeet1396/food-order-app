@@ -7,7 +7,6 @@ import classes from './Cart.module.scss';
 const Cart = (props) => {
 
   const cartCtx = useContext(CartContext);
-
   const totalAmount = `${cartCtx.totalAmount}₹`;
   const hasItems = cartCtx.items.length > 0;
 
