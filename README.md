@@ -23,4 +23,4 @@ This folder contains all the components used in this app. components like header
 
 ### Flow Chart
 
-![alt text](https://github.com/sumeet1396/food-order-app/maste/flow-cart.jpg?raw=true)
+![Flow chart](./flow-cart.jpg)
