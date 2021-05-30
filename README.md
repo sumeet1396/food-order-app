@@ -23,4 +23,4 @@ This folder contains all the components used in this app. components like header
 
 ### Flow Chart
 
-![Flow chart](./flow-cart.jpg)
+![Flow chart](docs/flow-cart.jpg)
