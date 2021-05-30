@@ -23,5 +23,5 @@ This folder contains all the components used in this app. components like header
 
 ### Flow Chart
 
-![Alt text](./docs/flow-char.svg)
-<img src="./docs/flow-char.svg">
+![flow-chart](https://user-images.githubusercontent.com/20359434/120108441-c205c780-c182-11eb-84ec-0b648c9ed4e2.jpg)
+
